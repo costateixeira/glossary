@@ -59,12 +59,11 @@ class "**Glossary**" as G<<BU>> {
     
 
 class "**Concept**" as C<<BU>> {
+  |_ code 1..1
   |_ designation 1..*
   |_ definition 1..1
   |_ description 0..1
   |_ status 1..1
-  |_ code 1..1 
-  |_ codeSystem 1..1  
   |_ source 0..1    
 }
 
