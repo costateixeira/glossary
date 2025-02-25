@@ -45,8 +45,9 @@ exclude:
   - old_docs
   - node_modules/
   - README.md
-#   - vendor/bundle/
-#   - vendor/cache/
+  - vendor/bundle/
+  - vendor/
+  - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
 
