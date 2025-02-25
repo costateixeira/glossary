@@ -56,7 +56,6 @@ class "**Glossary**" as G<<BU>> {
   |_ owner 1..1
   |_ concept 1..*   
 }
-    
 
 class "**Concept**" as C<<BU>> {
   |_ code 1..1
