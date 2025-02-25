@@ -13,10 +13,10 @@ baseurl: /glossary/      # place folder name if the site is served in a subfolde
 
 
 # Build settings
-theme: "just-the-docs"
+theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 plugins:
-  - jekyll-feed
+  - jekyll-default-layout
   - jekyll-spaceship  
 
 color_scheme: wider
@@ -69,7 +69,7 @@ heading_anchors: true
 
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/hl7-be/process_documentation" # the github URL for your repo
+gh_edit_repository: "https://github.com/costateixeira/glossary" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
