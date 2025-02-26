@@ -61,7 +61,7 @@ exclude:
 #logo: "/assets/images/just-the-docs.png"
 aux_links:
   "on GitHub":
-    - "//github.com/hl7-be/process_documentation"
+    - "//github.com/costateixeira/glossary"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
